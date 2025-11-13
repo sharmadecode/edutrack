@@ -31,21 +31,21 @@ Here are a few glimpses of the EduTrack Pro system in action, showcasing its mod
 The main menu provides quick access to all six modules through a clean, console-based user interface.
 
 <p align="center">
-  <img src="assets/home.png" alt="EduTrack Pro Main Menu" width="750"/>
+  <img src="src/assets/home.png" alt="EduTrack Pro Main Menu" width="750"/>
 </p>
 
 ### 2. Feature Showcase: Attendance Management
 A look at the subject-wise and date-wise attendance tracking feature, which uses Linked Lists for record keeping.
 
 <p align="center">
-  <img src="assets/feature.png" alt="Attendance Management Feature" width="750"/>
+  <img src="src/assets/feature.png" alt="Attendance Management Feature" width="750"/>
 </p>
 
 ### 3. Student Example: Grade Report
 Demonstrating the result generation and analytics capability, including automatic SGPA/CGPA computation.
 
 <p align="center">
-  <img src="assets/student_example.png" alt="Student Grade Report and Example" width="750"/>
+  <img src="src/assets/student_example.png" alt="Student Grade Report and Example" width="750"/>
 </p>
 
 ---
